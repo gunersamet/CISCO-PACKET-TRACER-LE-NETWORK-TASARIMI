@@ -1,9 +1,3 @@
-# CISCO-PACKET-TRACER-LE-NETWORK-TASARIMI
-This project is a small-scale enterprise network simulation designed on Cisco Packet Tracer, implementing VLAN segmentation and inter-VLAN routing using a router-on-a-stick method.
-
-
-
-
 # VLAN-Based Enterprise Network Design — Cisco Packet Tracer
 
 This project is a small-scale enterprise network simulation built in Cisco Packet Tracer, implementing VLAN segmentation with inter-VLAN routing via the router-on-a-stick method.
