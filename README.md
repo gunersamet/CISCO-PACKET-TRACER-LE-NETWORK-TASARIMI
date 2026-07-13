@@ -3,6 +3,7 @@
 This project is a small-scale enterprise network simulation built in Cisco Packet Tracer, implementing VLAN segmentation with inter-VLAN routing via the router-on-a-stick method.
 
 ## 🖧 Topology
+!(TOPOLOGY-.png)
 
 | Device | Type | Role |
 |---|---|---|
